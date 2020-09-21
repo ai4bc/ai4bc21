@@ -1,5 +1,6 @@
 ---
 layout: page
+title: AI for Behavior Change
 permalink: /home/
 ---
 
