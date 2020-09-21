@@ -32,7 +32,7 @@ The full-day workshop will start with a keynote talk, followed by an invited tal
 
 # **Submission Guidelines**
 
-The audience of this workshop will be researchers and students from a wide array of disciplines including, but not limited to, statistics, computer science, economics, public policy, psychology, management, and decision science, who work at the intersection of causal inference, machine learning, and behavior science. AAAI, specifically, is a great venue for our workshop because its audience spans many ML and AI communities. We invite novel contributions following the [AAAI-21 formatting guidelines, camera-ready style][aaai-21-guidelines]. Submissions will be peer reviewed, single-blinded. Submissions will be assessed based on their novelty, technical quality, significance of impact, interest, clarity, relevance, and reproducibility. We accept two types of submissions - full research papers no longer than 8 pages (including references) and short/poster papers with 2-4 pages. References will not count towards the page limit. Submission will be accepted via the Easychair submission website.
+The audience of this workshop will be researchers and students from a wide array of disciplines including, but not limited to, statistics, computer science, economics, public policy, psychology, management, and decision science, who work at the intersection of causal inference, machine learning, and behavior science. AAAI, specifically, is a great venue for our workshop because its audience spans many ML and AI communities. We invite novel contributions following the [AAAI-21 formatting guidelines, camera-ready style][aaai-21-guidelines]. Submissions will be peer reviewed, single-blinded. Submissions will be assessed based on their novelty, technical quality, significance of impact, interest, clarity, relevance, and reproducibility. We accept two types of submissions - full research papers no longer than 8 pages (including references) and short/poster papers with 2-4 pages. References will not count towards the page limit. Submission will be accepted via the [Easychair submission website][easychairlink].
 
 # **Invited Speakers**
 
@@ -55,4 +55,8 @@ The audience of this workshop will be researchers and students from a wide array
 - Jann Spiess, Stanford University
 - Anton Gollwitzer, Yale University
 
+# **Contact**
+For any questions, please reach out to us at ai4behaviorchange at gmail dot com
+
 [aaai-21-guidelines]: https://www.aaai.org/Publications/Templates/AuthorKit21.zip
+[easychairlink]: https://easychair.org/cfp/ai4bc21
