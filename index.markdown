@@ -42,21 +42,21 @@ The audience of this workshop will be researchers and students from a wide array
 
 # Invited Speakers
 
-- Susan Athey, Economics of Technology, Stanford University (keynote)
-- Sendhil Mullainathan, Computation and Behavioral Science, University of Chicago (keynote)
-- Eric Tchetgen Tchetgen, Statistics, University of Pennsylvania
-- Jon Klelinberg, Computer Science, Cornell University
-- Munmun De Choudhury, Interactive Computing, Georgia Tech
+- [Susan Athey][athey], Economics of Technology, Stanford University (keynote)
+- [Sendhil Mullainathan][sendhil], Computation and Behavioral Science, University of Chicago (keynote)
+- [Eric Tchetgen Tchetgen][eric], Statistics, University of Pennsylvania
+- [Jon Klelinberg][kleinberg], Computer Science, Cornell University
+- [Munmun De Choudhury][munmun], Interactive Computing, Georgia Tech
 
 # Organization
 
 ### Organizing Committee
 
-- Lyle Ungar, University of Pennsylvania, ungar@cis.upenn.edu
-- Sendhil Mullainathan, University of Chicago, Sendhil.Mullainathan@chicagobooth.edu
-- Eric Tchetgen Tchetgen, University of Pennsylvania, ett@wharton.upenn.edu
-- Rahul Ladhania*, University of Michigan, ladhania@umich.edu (primary contact)
-- Tony Liu, University of Pennsylvania, liutony@seas.upenn.edu
+- [Lyle Ungar][ungar], University of Pennsylvania, ungar@cis.upenn.edu
+- [Sendhil Mullainathan][sendhil], University of Chicago, Sendhil.Mullainathan@chicagobooth.edu
+- [Eric Tchetgen Tchetgen][eric], University of Pennsylvania, ett@wharton.upenn.edu
+- [Rahul Ladhania*][ladhania], University of Michigan, ladhania@umich.edu (primary contact)
+- [Tony Liu][tony], University of Pennsylvania, liutony@seas.upenn.edu
 
 ### Program Committee (tentative)
 
@@ -69,3 +69,12 @@ For any questions, please reach out to us at ai4behaviorchange at gmail dot com
 
 [aaai-21-guidelines]: https://www.aaai.org/Publications/Templates/AuthorKit21.zip
 [easychairlink]: https://easychair.org/cfp/ai4bc21
+[ladhania]: https://rahulladhania.com
+[ungar]: https://www.cis.upenn.edu/~ungar/
+[sendhil]: https://sendhil.org
+[tony]: http://kordinglab.com/people/tony_liu/index.html
+[eric]: https://statistics.wharton.upenn.edu/profile/ett/
+[athey]: https://athey.people.stanford.edu
+[kleinberg]:http://www.cs.cornell.edu/home/kleinber/
+[munmun]: http://www.munmund.net
+
