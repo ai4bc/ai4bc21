@@ -61,6 +61,7 @@ The audience of this workshop will be researchers and students from a wide array
 ### Program Committee (tentative)
 
 - Jann Spiess, Stanford University
+- Paramveer Dhillon, University of Michigan
 - Anton Gollwitzer, Yale University
 
 # **Contact**
