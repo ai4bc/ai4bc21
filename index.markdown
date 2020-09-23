@@ -56,10 +56,10 @@ The audience of this workshop will be researchers and students from a wide array
 - Sendhil Mullainathan, University of Chicago, Sendhil.Mullainathan@chicagobooth.edu
 - Eric Tchetgen Tchetgen, University of Pennsylvania, ett@wharton.upenn.edu
 - Rahul Ladhania*, University of Michigan, ladhania@umich.edu (primary contact)
+- Tony Liu, University of Pennsylvania, liutony@seas.upenn.edu
 
 ### Program Committee (tentative)
 
-- Tony Liu, University of Pennsylvania
 - Jann Spiess, Stanford University
 - Anton Gollwitzer, Yale University
 
