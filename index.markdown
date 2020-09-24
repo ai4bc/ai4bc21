@@ -48,12 +48,12 @@ The audience of this workshop will be researchers and students from a wide array
 <figure>
     <img src ="https://athey.people.stanford.edu/sites/g/files/sbiybj5686/f/photo-faculty-athey-susan.jpg" height=200  alt="kathy">
 </figure>
-[Susan Athey][athey] <br> Economics of Technology <br> Stanford University (keynote)
+[Susan Athey][athey] (keynote) <br> Economics of Technology <br> Stanford University 
 
 <figure>
     <img src="https://gsbcomphoto.chicagobooth.edu/smullain.jpg" alt="alternatetext" height = 200>
 </figure>
-[Sendhil Mullainathan][sendhil] <br> Computation and Behavioral Science <br> University of Chicago (keynote)
+[Sendhil Mullainathan][sendhil] (keynote) <br> Computation and Behavioral Science <br> University of Chicago
 
 <figure>
   <img src="https://stat.uw.edu/sites/default/files/styles/medium/public/2019-01/Tchetgen%20Tchetgen%2C%20Eric_0.jpg?itok=UQMEc__o" alt="alternatetext" height = 200>
