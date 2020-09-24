@@ -4,7 +4,7 @@
 title: AI for Behavior Change
 layout: page
 ---
-**The AAAI-21 Workshop on AI For Behavior Change held at the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)** <br>
+**The AAAI-21 Workshop on AI For Behavior Change held at the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)** <br><br>
 **February 8-9, 2021** <br>
 **A Virtual Conference** <br>
 
@@ -68,12 +68,10 @@ The audience of this workshop will be researchers and students from a wide array
 <figure>
     <img src="http://www.munmund.net/imgs/munmun-pic2.jpg" alt="alternatetext" height = 200>
 </figure>
-- [Munmun De Choudhury][munmun] <br> Interactive Computing <br> Georgia Tech
+[Munmun De Choudhury][munmun] <br> Interactive Computing <br> Georgia Tech
 
-# Organization
-
-### Organizing Committee
-
+# Organization                            
+#### Organizing Committee
 <figure>
     <img src ="https://www.cis.upenn.edu/~ungar/LyleUngar.jpg" height=200  alt="kathy">
 </figure>
@@ -101,8 +99,7 @@ The audience of this workshop will be researchers and students from a wide array
  [Tony Liu][tony] <br> University of Pennsylvania <br> liutony@seas.upenn.edu
 
 
-### Program Committee (tentative)
-
+#### Program Committee (tentative)
 - [Jann Spiess][jann], Stanford University
 - [Paramveer Dhillon][paramveer], University of Michigan
 - [Zhenke Wu][zhenke], University of Michigan
