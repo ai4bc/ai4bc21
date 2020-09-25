@@ -5,7 +5,7 @@ title: AI for Behavior Change
 layout: page
 ---
 **The AAAI-21 Workshop on AI For Behavior Change held at the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)** <br><br>
-**February 8-9, 2021** <br>
+**February 8 or 9, 2021** <br>
 **A Virtual Conference** <br>
 
 > - [Topics](#topics)
