@@ -45,32 +45,40 @@ The audience of this workshop will be researchers and students from a wide array
 
 # Invited Speakers
 
-<figure>
-    <img src ="https://athey.people.stanford.edu/sites/g/files/sbiybj5686/f/photo-faculty-athey-susan.jpg" height=200  alt="kathy">
-</figure>
-[Susan Athey][athey] (keynote) <br> Economics of Technology <br> Stanford University 
+<div class="content list people">
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://athey.people.stanford.edu/sites/g/files/sbiybj5686/f/photo-faculty-athey-susan.jpg"/>
+            <span class="caption"><a href="https://athey.people.stanford.edu">Susan Athey</a> (keynote)<br>Economics of Technology <br>Stanford University</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://gsbcomphoto.chicagobooth.edu/smullain.jpg"/>
+            <span class="caption"><a href="https://sendhil.org">Sendhil Mullainathan</a> (keynote)<br>Computation and Behavioral Science<br>University of Chicago</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://stat.uw.edu/sites/default/files/styles/medium/public/2019-01/Tchetgen%20Tchetgen%2C%20Eric_0.jpg?itok=UQMEc__o"/>
+            <span class="caption"><a href="https://statistics.wharton.upenn.edu/profile/ett/">Eric Tchetgen Tchetgen</a><br>Statistics<br>University of Pennsylvania</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://infosci.cornell.edu/sites/default/files/JonK1.jpg"/>
+            <span class="caption"><a href="http://www.cs.cornell.edu/home/kleinber/">Jon Kleinberg</a><br>Computer Science<br>Cornell University</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="http://www.munmund.net/imgs/munmun-pic2.jpg"/>
+            <span class="caption"><a href="http://www.munmund.net">Munmun De Choudhury</a><br>Interactive Computing<br>Georgia Tech</span>
+        </p>
+      </div>
+</div>
 
-<figure>
-    <img src="https://gsbcomphoto.chicagobooth.edu/smullain.jpg" alt="alternatetext" height = 200>
-</figure>
-[Sendhil Mullainathan][sendhil] (keynote) <br> Computation and Behavioral Science <br> University of Chicago
-
-<figure>
-  <img src="https://stat.uw.edu/sites/default/files/styles/medium/public/2019-01/Tchetgen%20Tchetgen%2C%20Eric_0.jpg?itok=UQMEc__o" alt="alternatetext" height = 200>
-</figure>
-[Eric Tchetgen Tchetgen][eric] <br> Statistics <br> University of Pennsylvania
-
-<figure>
-    <img src="https://infosci.cornell.edu/sites/default/files/JonK1.jpg" alt="alternatetext" height = 200>
-</figure>
-[Jon Klelinberg][kleinberg] <br> Computer Science <br> Cornell University 
-
-<figure>
-    <img src="http://www.munmund.net/imgs/munmun-pic2.jpg" alt="alternatetext" height = 200>
-</figure>
-[Munmun De Choudhury][munmun] <br> Interactive Computing <br> Georgia Tech
-
-# Organization                            
+# Organization
 #### Organizing Committee
 <figure>
     <img src ="https://www.cis.upenn.edu/~ungar/LyleUngar.jpg" height=200  alt="kathy">
@@ -91,7 +99,7 @@ The audience of this workshop will be researchers and students from a wide array
 <figure>
     <img src="https://chibe.upenn.edu/wp-content/uploads/2020/06/Rahul-Ladhania-2-768x793.jpg" alt="alternatetext" height = 200>
 </figure>
-[*Rahul Ladhania(primary contact)*][ladhania] <br> University of Michigan <br> ladhania@umich.edu 
+[*Rahul Ladhania(primary contact)*][ladhania] <br> University of Michigan <br> ladhania@umich.edu
 
 <figure>
     <img src="http://kordinglab.com/images/people/tony_liu.jpg" alt="alternatetext" height = 200>

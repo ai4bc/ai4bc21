@@ -1,0 +1,40 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.profile-thumbnail {
+    object-fit: cover;
+    object-position: center top;
+    width: 200px;
+    height: 200px;
+  }
+
+  .list-item-people {
+    display: inline-block;
+    padding-right: 1em;
+    text-align: center;
+  }
+
+  .list-post-title img {
+    margin-bottom: 0.75em;
+    margin-top: 1.25em;
+  }
+
+  .list-post-title .name {
+    font-size: 18px;
+  }
+
+  .list-post-title {
+    color: black;
+  }
+
+  .people {
+    margin: auto;
+    text-align: center;
+    margin-top: 0.75em;
+  }
+
+  .caption {
+    display: block;
+}
