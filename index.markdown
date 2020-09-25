@@ -86,31 +86,31 @@ The audience of this workshop will be researchers and students from a wide array
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://www.cis.upenn.edu/~ungar/LyleUngar.jpg"/>
-            <span class="caption"><a href="https://www.cis.upenn.edu/~ungar/">Lyle Ungar</a><br>University of Pennsylvania <br> ungar@cis.upenn.edu </span>
+            <span class="caption"><a href="https://www.cis.upenn.edu/~ungar/">Lyle Ungar</a><br>University of Pennsylvania <br>  </span>
         </p>
     </div>
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://gsbcomphoto.chicagobooth.edu/smullain.jpg"/>
-            <span class="caption"><a href="https://sendhil.org">Sendhil Mullainathan</a> <br>University of Chicago<br>sendhil@chicagobooth.edu</span>
+            <span class="caption"><a href="https://sendhil.org">Sendhil Mullainathan</a> <br>University of Chicago<br></span>
         </p>
     </div>
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://stat.uw.edu/sites/default/files/styles/medium/public/2019-01/Tchetgen%20Tchetgen%2C%20Eric_0.jpg?itok=UQMEc__o"/>
-            <span class="caption"><a href="https://statistics.wharton.upenn.edu/profile/ett/">Eric Tchetgen Tchetgen</a><br>University of Pennsylvania<br>ettt@wharton.upenn.edu</span>
+            <span class="caption"><a href="https://statistics.wharton.upenn.edu/profile/ett/">Eric Tchetgen Tchetgen</a><br>University of Pennsylvania<br></span>
         </p>
     </div>
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://chibe.upenn.edu/wp-content/uploads/2020/06/Rahul-Ladhania-2-768x793.jpg"/>
-            <span class="caption"><a href="https://sph.umich.edu/faculty-profiles/ladhania-rahul.html">Rahul Ladhania (primary contact)</a> <br>University of Michigan<br>ladhania@umich.edu</span>
+            <span class="caption"><a href="https://sph.umich.edu/faculty-profiles/ladhania-rahul.html">Rahul Ladhania (primary contact)</a> <br>University of Michigan<br></span>
         </p>
     </div>
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="http://kordinglab.com/images/people/tony_liu.jpg"/>
-            <span class="caption"><a href="http://kordinglab.com/people/tony_liu/index.html">Tony Liu</a><br>University of Pennsylvania<br>liutony@seas.upenn.edu</span>
+            <span class="caption"><a href="http://kordinglab.com/people/tony_liu/index.html">Tony Liu</a><br>University of Pennsylvania<br></span>
         </p>
       </div>
 </div>
