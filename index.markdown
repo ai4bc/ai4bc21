@@ -104,7 +104,7 @@ The audience of this workshop will be researchers and students from a wide array
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://chibe.upenn.edu/wp-content/uploads/2020/06/Rahul-Ladhania-2-768x793.jpg"/>
-            <span class="caption"><a href="https://sph.umich.edu/faculty-profiles/ladhania-rahul.html">Rahul Ladhania</a> (primary contact)<br>University of Michigan<br>ladhania@umich.edu</span>
+            <span class="caption"><a href="https://sph.umich.edu/faculty-profiles/ladhania-rahul.html">Rahul Ladhania (primary contact)</a> <br>University of Michigan<br>ladhania@umich.edu</span>
         </p>
     </div>
     <div class="list-item-people">
