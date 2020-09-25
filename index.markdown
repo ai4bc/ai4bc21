@@ -4,7 +4,7 @@
 title: AI for Behavior Change
 layout: page
 ---
-**The AAAI-21 Workshop on AI For Behavior Change held at the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)** <br>
+**The AAAI-21 Workshop on AI For Behavior Change held at the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)** <br><br>
 **February 8-9, 2021** <br>
 **A Virtual Conference** <br>
 
@@ -45,27 +45,73 @@ The audience of this workshop will be researchers and students from a wide array
 
 # Invited Speakers
 
-- [Susan Athey][athey], Economics of Technology, Stanford University (keynote)
-- [Sendhil Mullainathan][sendhil], Computation and Behavioral Science, University of Chicago (keynote)
-- [Eric Tchetgen Tchetgen][eric], Statistics, University of Pennsylvania
-- [Jon Klelinberg][kleinberg], Computer Science, Cornell University
-- [Munmun De Choudhury][munmun], Interactive Computing, Georgia Tech
+<div class="content list people">
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://athey.people.stanford.edu/sites/g/files/sbiybj5686/f/photo-faculty-athey-susan.jpg"/>
+            <span class="caption"><a href="https://athey.people.stanford.edu">Susan Athey</a> (keynote)<br>Economics of Technology <br>Stanford University</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://gsbcomphoto.chicagobooth.edu/smullain.jpg"/>
+            <span class="caption"><a href="https://sendhil.org">Sendhil Mullainathan</a> (keynote)<br>Computation and Behavioral Science<br>University of Chicago</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://stat.uw.edu/sites/default/files/styles/medium/public/2019-01/Tchetgen%20Tchetgen%2C%20Eric_0.jpg?itok=UQMEc__o"/>
+            <span class="caption"><a href="https://statistics.wharton.upenn.edu/profile/ett/">Eric Tchetgen Tchetgen</a><br>Statistics<br>University of Pennsylvania</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://infosci.cornell.edu/sites/default/files/JonK1.jpg"/>
+            <span class="caption"><a href="http://www.cs.cornell.edu/home/kleinber/">Jon Kleinberg</a><br>Computer Science<br>Cornell University</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="http://www.munmund.net/imgs/munmun-pic2.jpg"/>
+            <span class="caption"><a href="http://www.munmund.net">Munmun De Choudhury</a><br>Interactive Computing<br>Georgia Tech</span>
+        </p>
+      </div>
+</div>
 
 # Organization
+#### Organizing Committee
+<figure>
+    <img src ="https://www.cis.upenn.edu/~ungar/LyleUngar.jpg" height=200  alt="kathy">
+</figure>
+[Lyle Ungar][ungar] <br> University of Pennsylvania <br>ungar@cis.upenn.edu
 
-### Organizing Committee
+<figure>
+    <img src="https://gsbcomphoto.chicagobooth.edu/smullain.jpg" alt="alternatetext" height = 200>
+</figure>
+[Sendhil Mullainathan][sendhil] <br> University of Chicago <br> Sendhil.Mullainathan@chicagobooth.edu
 
-- [Lyle Ungar][ungar], University of Pennsylvania, ungar@cis.upenn.edu
-- [Sendhil Mullainathan][sendhil], University of Chicago, Sendhil.Mullainathan@chicagobooth.edu
-- [Eric Tchetgen Tchetgen][eric], University of Pennsylvania, ett@wharton.upenn.edu
-- [Rahul Ladhania*][ladhania], University of Michigan, ladhania@umich.edu (primary contact)
-- [Tony Liu][tony], University of Pennsylvania, liutony@seas.upenn.edu
+<figure>
+  <img src="https://stat.uw.edu/sites/default/files/styles/medium/public/2019-01/Tchetgen%20Tchetgen%2C%20Eric_0.jpg?itok=UQMEc__o" alt="alternatetext" height = 200>
 
-### Program Committee (tentative)
+</figure>
+[Eric Tchetgen Tchetgen][eric] <br> University of Pennsylvania <br> ett@wharton.upenn.edu
 
-- Jann Spiess, Stanford University
-- Paramveer Dhillon, University of Michigan
-- Anton Gollwitzer, Yale University
+<figure>
+    <img src="https://chibe.upenn.edu/wp-content/uploads/2020/06/Rahul-Ladhania-2-768x793.jpg" alt="alternatetext" height = 200>
+</figure>
+[*Rahul Ladhania(primary contact)*][ladhania] <br> University of Michigan <br> ladhania@umich.edu
+
+<figure>
+    <img src="http://kordinglab.com/images/people/tony_liu.jpg" alt="alternatetext" height = 200>
+</figure>
+ [Tony Liu][tony] <br> University of Pennsylvania <br> liutony@seas.upenn.edu
+
+
+#### Program Committee (tentative)
+- [Jann Spiess][jann], Stanford University
+- [Paramveer Dhillon][paramveer], University of Michigan
+- [Zhenke Wu][zhenke], University of Michigan
+- [Anton Gollwitzer][anton], Yale University
 
 # **Contact**
 For any questions, please reach out to us at ai4behaviorchange at gmail dot com
@@ -80,4 +126,7 @@ For any questions, please reach out to us at ai4behaviorchange at gmail dot com
 [athey]: https://athey.people.stanford.edu
 [kleinberg]:http://www.cs.cornell.edu/home/kleinber/
 [munmun]: http://www.munmund.net
-
+[jann]:https://www.gsb.stanford.edu/faculty-research/faculty/jann-spiess
+[paramveer]:http://pdhillon.com
+[zhenke]:https://sph.umich.edu/faculty-profiles/wu-zhenke.html
+[anton]:https://www.antongollwitzer.org
