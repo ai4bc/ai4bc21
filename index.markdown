@@ -118,13 +118,13 @@ The audience of this workshop will be researchers and students from a wide array
 
 
 #### Program Committee (tentative)
-- [Jann Spiess][jann], Stanford University
+- [Jann Spiess][jann], Stanford University 
 - [Paramveer Dhillon][paramveer], University of Michigan
 - [Zhenke Wu][zhenke], University of Michigan
 - [Anton Gollwitzer][anton], Yale University
 
 # Dates
-- Submission Deadline: November 9, 2020
+- Submission Deadline: November 9, 2020 [(via Easychair)][easychairlink]
 - Notification of acceptance/rejection: November 30, 2020
 - Early Registration Deadline: December 18, 2020
 - Workshop Date: February 8/9, 2020
