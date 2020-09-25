@@ -13,6 +13,7 @@ layout: page
 > - [Submission guidelines](#submission-guidelines)
 > - [Speakers](#invited-speakers)
 > - [Organization](#organization)
+> - [Dates](#dates)
 
 # Introduction
 
@@ -80,31 +81,40 @@ The audience of this workshop will be researchers and students from a wide array
 
 # Organization
 #### Organizing Committee
-<figure>
-    <img src ="https://www.cis.upenn.edu/~ungar/LyleUngar.jpg" height=200  alt="kathy">
-</figure>
-[Lyle Ungar][ungar] <br> University of Pennsylvania <br>ungar@cis.upenn.edu
 
-<figure>
-    <img src="https://gsbcomphoto.chicagobooth.edu/smullain.jpg" alt="alternatetext" height = 200>
-</figure>
-[Sendhil Mullainathan][sendhil] <br> University of Chicago <br> Sendhil.Mullainathan@chicagobooth.edu
+<div class="content list people">
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://www.cis.upenn.edu/~ungar/LyleUngar.jpg"/>
+            <span class="caption"><a href="https://www.cis.upenn.edu/~ungar/">Lyle Ungar</a><br>University of Pennsylvania <br> ungar@cis.upenn.edu </span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://gsbcomphoto.chicagobooth.edu/smullain.jpg"/>
+            <span class="caption"><a href="https://sendhil.org">Sendhil Mullainathan</a> <br>University of Chicago<br>sendhil@chicagobooth.edu</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://stat.uw.edu/sites/default/files/styles/medium/public/2019-01/Tchetgen%20Tchetgen%2C%20Eric_0.jpg?itok=UQMEc__o"/>
+            <span class="caption"><a href="https://statistics.wharton.upenn.edu/profile/ett/">Eric Tchetgen Tchetgen</a><br>University of Pennsylvania<br>ettt@wharton.upenn.edu</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://chibe.upenn.edu/wp-content/uploads/2020/06/Rahul-Ladhania-2-768x793.jpg"/>
+            <span class="caption"><a href="https://sph.umich.edu/faculty-profiles/ladhania-rahul.html">Rahul Ladhania</a> (primary contact)<br>University of Michigan<br>ladhania@umich.edu</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="http://kordinglab.com/images/people/tony_liu.jpg"/>
+            <span class="caption"><a href="http://kordinglab.com/people/tony_liu/index.html">Tony Liu</a><br>University of Pennsylvania<br>liutony@seas.upenn.edu</span>
+        </p>
+      </div>
+</div>
 
-<figure>
-  <img src="https://stat.uw.edu/sites/default/files/styles/medium/public/2019-01/Tchetgen%20Tchetgen%2C%20Eric_0.jpg?itok=UQMEc__o" alt="alternatetext" height = 200>
-
-</figure>
-[Eric Tchetgen Tchetgen][eric] <br> University of Pennsylvania <br> ett@wharton.upenn.edu
-
-<figure>
-    <img src="https://chibe.upenn.edu/wp-content/uploads/2020/06/Rahul-Ladhania-2-768x793.jpg" alt="alternatetext" height = 200>
-</figure>
-[*Rahul Ladhania(primary contact)*][ladhania] <br> University of Michigan <br> ladhania@umich.edu
-
-<figure>
-    <img src="http://kordinglab.com/images/people/tony_liu.jpg" alt="alternatetext" height = 200>
-</figure>
- [Tony Liu][tony] <br> University of Pennsylvania <br> liutony@seas.upenn.edu
 
 
 #### Program Committee (tentative)
@@ -112,6 +122,12 @@ The audience of this workshop will be researchers and students from a wide array
 - [Paramveer Dhillon][paramveer], University of Michigan
 - [Zhenke Wu][zhenke], University of Michigan
 - [Anton Gollwitzer][anton], Yale University
+
+# Dates
+- Submission Deadline: November 9, 2020
+- Notification of acceptance/rejection: November 30, 2020
+- Early Registration Deadline: December 18, 2020
+- Workshop Date: February 8/9, 2020
 
 # **Contact**
 For any questions, please reach out to us at ai4behaviorchange at gmail dot com
