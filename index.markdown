@@ -84,7 +84,7 @@ The audience of this workshop will be researchers and students from a wide array
 <div class="content list people">
     <div class="list-item-people">
         <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://bcfg.wharton.upenn.edu/"/>
+            <img class="profile-thumbnail" src="https://pbs.twimg.com/profile_images/1011267191709331456/JdmshNYM_400x400.jpg"/>
             <span class="caption"><a href="https://bcfg.wharton.upenn.edu">Behavior Change For Good</a> </span>
         </p>
     </div>
