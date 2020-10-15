@@ -12,7 +12,7 @@ layout: page
 > - [Workshop format](#format)
 > - [Submission guidelines](#submission-guidelines)
 > - [Speakers](#invited-speakers)
-> - [Partners](#partners)
+> - [Partners and Sponsors](#partners-and-sponsors)
 > - [Organization](#organization)
 > - [Dates](#dates)
 
@@ -80,7 +80,7 @@ The audience of this workshop will be researchers and students from a wide array
       </div>
 </div>
 
-# Partners
+# Partners and Sponsors
 <div class="content list people">
     <div class="list-item-people">
         <p class="list-post-title">
