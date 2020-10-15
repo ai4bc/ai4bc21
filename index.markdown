@@ -14,7 +14,7 @@ layout: page
 > - [Speakers](#invited-speakers)
 > - [Partners and Sponsors](#partners-and-sponsors)
 > - [Organization](#organization)
-> - [Dates](#dates)
+> - [Key Dates](#key-dates)
 
 # Introduction
 
@@ -134,7 +134,7 @@ The audience of this workshop will be researchers and students from a wide array
 - [Zhenke Wu][zhenke], University of Michigan
 - [Anton Gollwitzer][anton], Yale University
 
-# Dates
+# Key Dates
 - Submission Deadline: November 9, 2020 [(via Easychair)][easychairlink]
 - Notification of acceptance/rejection: November 30, 2020
 - Early Registration Deadline: December 18, 2020
