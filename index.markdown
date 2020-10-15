@@ -12,6 +12,7 @@ layout: page
 > - [Workshop format](#format)
 > - [Submission guidelines](#submission-guidelines)
 > - [Speakers](#invited-speakers)
+> - [Partners](#partners)
 > - [Organization](#organization)
 > - [Dates](#dates)
 
@@ -78,6 +79,16 @@ The audience of this workshop will be researchers and students from a wide array
         </p>
       </div>
 </div>
+
+# Partners
+<div class="content list people">
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://bcfg.wharton.upenn.edu/"/>
+            <span class="caption"><a href="https://bcfg.wharton.upenn.edu">Behavior Change For Good</a> </span>
+        </p>
+    </div>
+    </div>
 
 # Organization
 #### Organizing Committee
