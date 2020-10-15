@@ -82,7 +82,13 @@ The audience of this workshop will be researchers and students from a wide array
 
 # Partners and Sponsors
 <div class="content list people">
-    <div class="list-item-people">
+<div class="list-item-people">
+    <p class="list-post-title">
+        <img class="profile-thumbnail" src="https://www.chicagobooth.edu/-/media/project/chicago-booth/centers/caai/caai-mark.svg?cx=0&cy=0&cw=338&ch=270&hash=D9DF8E83DAD5880D3EDBCA53D83FC8C3"/>
+        <span class="caption"><a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence">Center for Applied Artificial Intelligence</a><br>Chicago Booth<br>  </span>
+    </p>
+</div>
+<div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://pbs.twimg.com/profile_images/1011267191709331456/JdmshNYM_400x400.jpg"/>
             <span class="caption"><a href="https://bcfg.wharton.upenn.edu">Behavior Change For Good</a> </span>
