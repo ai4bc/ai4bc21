@@ -84,7 +84,7 @@ The audience of this workshop will be researchers and students from a wide array
 <div class="content list people">
 <div class="list-item-people">
     <p class="list-post-title">
-        <img class="profile-thumbnail" src="https://www.chicagobooth.edu/-/media/project/chicago-booth/centers/caai/caai-mark.svg?cx=0&cy=0&cw=338&ch=270&hash=D9DF8E83DAD5880D3EDBCA53D83FC8C3"/>
+        <img class="profile-thumbnail" src="https://drive.google.com/file/d/1PTvTLc2qyjw1so9FuLFrseonDHxuJn-F/view?usp=sharing"/>
         <span class="caption"><a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence">Center for Applied Artificial Intelligence</a><br>Chicago Booth<br>  </span>
     </p>
 </div>
