@@ -95,8 +95,8 @@ The audience of this workshop will be researchers and students from a wide array
 </div>
 <div class="list-item-people">
     <p class="list-post-title">
-        <img class="profile-thumbnail" src="https://static1.squarespace.com/static/58dd832137c58106c9c86f71/t/5cab8b634785d3924327ea52/1604342895459/?format=original"/>
-        <span class="caption"><a href="https://www.psychoftech.org">Psychology Of Technology Institute</span>
+        <img class="profile-thumbnail" src="https://static1.squarespace.com/static/58dd832137c58106c9c86f71/t/5cab8b634785d3924327ea52/1604342895459/?format=original">
+        <span class="caption"><a href="https://www.psychoftech.org">Psychology Of Technology Institute</a></span>
 </div>
 <div class="list-item-people">
         <p class="list-post-title">
