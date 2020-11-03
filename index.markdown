@@ -18,28 +18,33 @@ layout: page
 
 # Introduction
 
-In domains as wide-ranging as medication adherence, vaccination, college enrollment, retirement savings, and energy consumption, behavioral interventions have been shown to encourage people towards making better choices. For many applications of AI in these areas, one needs to design systems that learn to motivate people to take actions that maximize their welfare. Large data sources, both conventionally used in social sciences (EHRs, health claims, credit card use, college attendance records) and unconventional (social networks, fitness apps), are now available, and are increasingly used to personalize interventions. These datasets can be leveraged to learn individuals’ behavioral patterns, identify individuals at risk of making sub-optimal or harmful choices, and target them with behavioral interventions to prevent harm or improve well-being. At the same time, there is an increasing interest in AI in moving beyond traditional supervised learning approaches towards learning causal models, which can support the identification of targeted behavioral interventions. These research trends inform the need to explore the intersection of AI with behavioral science and causal inference, and how they can come together for applications in the social and health sciences.
+In decision-making domains as wide-ranging as medication adherence, vaccination, college enrollment, retirement savings, and energy consumption, behavioral interventions have been shown to encourage people towards making better choices. It is important to learn how to use AI effectively in these areas in order to be able to motivate and help people to take actions that maximize their welfare. 
+
+At least three research trends are informing insights in this field. First, karge data sources, both conventionally used in social sciences (EHRs, health claims, credit card use, college attendance records) and unconventional (social networks, fitness apps), are now available, and are increasingly used to personalize interventions. These datasets can be leveraged to learn individuals’ behavioral patterns, identify individuals at risk of making sub-optimal or harmful choices, and target them with behavioral interventions to prevent harm or improve well-being. Second, psychological experiments in laboratories and in the field, together with technology companies (e.g., using apps), to measure behavioral outcomes can be useful for informing AI design. Finally, there is an increasing interest in AI in moving beyond traditional supervised learning approaches towards learning causal models, which can support the identification of targeted behavioral interventions. These research trends inform the need to explore the intersection of AI with behavioral science and causal inference, and how they can come together for applications in the social and health sciences.
 
 
-This workshop will focus on AI and ML-based approaches that can (1) identify individuals in need of behavioral interventions, and/or predict when they need them; (2) help design and target optimal interventions; and (3) exploit observational and/or experimental datasets in domains including social media, health records, claims data, fitness apps, etc. for causal estimation in the behavior science world.
+This workshop will focus on AI and ML or psychological theory based approaches that can (1) identify individuals in need of behavioral interventions, and/or predict when they need them; (2) help design and target optimal interventions; and (3) exploit observational and/or experimental datasets in domains including social media, health records, claims data, fitness apps, etc. for causal estimation in the behavior science world.
 
 # Topics
 
-The goal of this workshop is to bring together the causal inference, artificial intelligence, and behavior science communities, gathering insights from each of these fields to facilitate collaboration and adaptation of theoretical and domain-specific knowledge amongst them. We invite thought-provoking submissions on a range of topics in these fields, including, but not limited to the following areas:
+The goal of this workshop is to bring together scholars from the causal inference, artificial intelligence, and behavior science (eg. psychology, behavioral economics) communities, gathering insights from each of these fields to facilitate collaboration and adaptation of theoretical and domain-specific knowledge amongst them. We invite thought-provoking submissions on a range of topics across multiple disciplines, including, but not limited to the following areas:
 
 - Intervention design
 - Adaptive treatment assignment
 - Heterogeneity estimation
 - Optimal assignment rules
 - Targeted nudges
+- Psychological responses to interventions
 - Observational-experimental data
-- Mental health/wellness; habit formation
+- Mental health/wellness
+- Habit formation
 - Social media interventions
+- Psychological science
 - Precision health
 
 # Format
 
-The full-day workshop will start with a keynote talk, followed by an invited talk and contributed paper presentations in the morning. The post-lunch session will feature a second keynote talk, two invited talks, and contributed paper presentations. Papers more suited for a poster, rather than a presentation, would be invited for a poster session. We will also select up to 5 best posters for spotlight talks (2 minutes each). We will end the workshop with a panel discussion by top researchers from these fields to enlist future directions and enhancement to this workshop.
+The full-day workshop will start with a keynote talk, followed by an invited talk and contributed paper presentations in the morning. The post-lunch session will feature a second keynote talk, two invited talks, and contributed paper presentations. Papers more suited for a poster, rather than a presentation, would be invited for a poster session. We will also select up to 5 best posters for spotlight talks (2 minutes each). We will also organize breakout "lunch rooms" hosted by our partners with specific themes, aimed at faciliating conversations and relationship building among scholars and to discuss future directions and enhancement to this workshop.
 
 # Submission Guidelines
 
@@ -86,6 +91,12 @@ The audience of this workshop will be researchers and students from a wide array
     <p class="list-post-title">
         <img class="profile-thumbnail" src="https://www.chicagobooth.edu/-/media/project/chicago-booth/centers/caai/caai-mark.svg?cx=0&cy=0&cw=338&ch=270&hash=D9DF8E83DAD5880D3EDBCA53D83FC8C3"/>
         <span class="caption"><a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence">Center for Applied Artificial Intelligence</a><br>Chicago Booth<br>  </span>
+    </p>
+</div>
+<div class="list-item-people">
+    <p class="list-post-title">
+        <img class="profile-thumbnail" src="https://static1.squarespace.com/static/58dd832137c58106c9c86f71/t/5cab8b634785d3924327ea52/1604342895459/?format=original"/>
+        <span class="caption"><a href="https://www.psychoftech.org">Psychology Of Technology Institute</span>
     </p>
 </div>
 <div class="list-item-people">
