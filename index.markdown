@@ -95,7 +95,7 @@ The audience of this workshop will be researchers and students from a wide array
 </div>
 <div class="list-item-people">
     <p class="list-post-title">
-        <img class="profile-thumbnail"  src="blob/master/assets/appliedai.png">
+        <img class="profile-thumbnail"  src="https://github.com/ai4bc/ai4bc21/blob/master/assets/appliedai.png">
         <span class="caption"><a href="https://www.psychoftech.org">Psychology Of Technology Institute</a></span>
         </p>
 </div>
