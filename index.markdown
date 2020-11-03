@@ -108,9 +108,7 @@ The audience of this workshop will be researchers and students from a wide array
         <span class="caption"><a href="https://www.psychoftech.org">Psychology Of Technology Institute</a></span>
         </p>
 </div>
-
-
-    </div>
+</div>
 
 # Organization
 #### Organizing Committee
