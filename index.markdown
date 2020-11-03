@@ -5,7 +5,7 @@ title: AI for Behavior Change
 layout: page
 ---
 **The AAAI-21 Workshop on AI For Behavior Change held at the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)** <br><br>
-**February 8 or 9, 2021** <br>
+**February 8, 2021** <br>
 **A Virtual Conference** <br>
 
 > - [Topics](#topics)
@@ -158,7 +158,7 @@ The audience of this workshop will be researchers and students from a wide array
 - Submission Deadline: November 9, 2020 [(via Easychair)][easychairlink]
 - Notification of acceptance/rejection: November 30, 2020
 - Early Registration Deadline: December 18, 2020
-- Workshop Date: February 8/9, 2020
+- Workshop Date: February 8, 2021
 
 # **Contact**
 For any questions, please reach out to us at ai4behaviorchange at gmail dot com
