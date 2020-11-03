@@ -89,13 +89,13 @@ The audience of this workshop will be researchers and students from a wide array
 <div class="content list people">
 <div class="list-item-people">
     <p class="list-post-title">
-        <img class="profile-thumbnail" src="https://www.chicagobooth.edu/-/media/project/chicago-booth/centers/caai/caai-mark.svg?cx=0&cy=0&cw=338&ch=270&hash=D9DF8E83DAD5880D3EDBCA53D83FC8C3"/>
-        <span class="caption"><a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence">Center for Applied Artificial Intelligence</a><br>Chicago Booth<br>  </span>
+        <img class="profile-thumbnail" src="https://raw.githubusercontent.com/ai4bc/ai4bc21/master/assets/appliedai.png"/>
+        <span class="caption"><a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence">Center for Applied Artificial Intelligence</a><br>Chicago Booth<br></span>
     </p>
 </div>
 <div class="list-item-people">
     <p class="list-post-title">
-        <img class="profile-thumbnail"  src="https://raw.githubusercontent.com/ai4bc/ai4bc21/master/assets/appliedai.png">
+        <img class="profile-thumbnail"  src="https://github.com/ai4bc/ai4bc21/blob/master/assets/pyschoftech.jpg?raw=true">
         <span class="caption"><a href="https://www.psychoftech.org">Psychology Of Technology Institute</a></span>
         </p>
 </div>
