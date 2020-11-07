@@ -154,7 +154,7 @@ The audience of this workshop will be researchers and students from a wide array
 - [Anton Gollwitzer][anton], Yale University
 
 # Key Dates
-- Submission Deadline: November 9, 2020 [(via Easychair)][easychairlink]
+- (Updated) Submission Deadline: November 13, 2020 [(via Easychair)][easychairlink]
 - Notification of acceptance/rejection: November 30, 2020
 - Early Registration Deadline: December 18, 2020
 - Workshop Date: February 8, 2021
