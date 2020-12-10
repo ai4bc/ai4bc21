@@ -157,7 +157,7 @@ The audience of this workshop will be researchers and students from a wide array
 - (Updated) Submission Deadline: November 13, 2020 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
 - Notification of acceptance/rejection: December 8, 2020
 - Registration for Accepted Authors: December 18, 2020  [(Link here)][register]
-- Early Bird Registration for everyone else: January 15, 2020  [(Link here)][register]
+- Early Bird Registration for everyone else: January 15, 2021  [(Link here)][register]
 - Workshop Date: February 8, 2021
 
 # **Contact**
