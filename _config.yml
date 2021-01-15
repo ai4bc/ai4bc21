@@ -3,7 +3,7 @@ title: AI4BC-21
 email: ai4behaviorchange@gmail.com
 description: The AAAI-21 Workshop on AI For Behavior Change held at the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)
 #Testing how this works.
-#baseurl: "/ai4bc21" # the subpath of your site, e.g. /blog
+baseurl: "/ai4bc21" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -39,4 +39,4 @@ kramdown:
 
 # ensures that there are no additional header pages
 header_pages:
-  -
+  - schedule.md
