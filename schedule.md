@@ -63,7 +63,7 @@ layout: page
         <tr>
             <td> 03:30pm - 04:15pm </td>
             <td>
-                Invited Talk: <b>Eric Tchetgen Tcetgen</b> <br>
+                Invited Talk: <b>Eric Tchetgen Tchetgen</b> <br>
                 An Introduction to Proximal Causal Learning
             </td>
         </tr>
