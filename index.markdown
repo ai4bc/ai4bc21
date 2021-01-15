@@ -15,10 +15,11 @@ layout: page
 > - [Partners and Sponsors](#partners-and-sponsors)
 > - [Organization](#organization)
 > - [Key Dates](#key-dates)
+> - [Schedule](/ai4bc21/schedule.html)
 
 # Introduction
 
-In decision-making domains as wide-ranging as medication adherence, vaccination, college enrollment, retirement savings, and energy consumption, behavioral interventions have been shown to encourage people towards making better choices. It is important to learn how to use AI effectively in these areas in order to be able to motivate and help people to take actions that maximize their welfare. 
+In decision-making domains as wide-ranging as medication adherence, vaccination, college enrollment, retirement savings, and energy consumption, behavioral interventions have been shown to encourage people towards making better choices. It is important to learn how to use AI effectively in these areas in order to be able to motivate and help people to take actions that maximize their welfare.
 
 At least three research trends are informing insights in this field. First, large data sources, both conventionally used in social sciences (EHRs, health claims, credit card use, college attendance records) and unconventional (social networks, fitness apps), are now available, and are increasingly used to personalize interventions. These datasets can be leveraged to learn individuals’ behavioral patterns, identify individuals at risk of making sub-optimal or harmful choices, and target them with behavioral interventions to prevent harm or improve well-being. Second, psychological experiments in laboratories and in the field, in partnership with technology companies (e.g., using apps), to measure behavioral outcomes are being increasingly used for informing intervention design. Finally, there is an increasing interest in AI in moving beyond traditional supervised learning approaches towards learning causal models, which can support the identification of targeted behavioral interventions. These research trends inform the need to explore the intersection of AI with behavioral science and causal inference, and how they can come together for applications in the social and health sciences.
 
@@ -93,7 +94,7 @@ The audience of this workshop will be researchers and students from a wide array
             <span class="caption"><a href="https://bcfg.wharton.upenn.edu">Behavior Change For Good</a> <br>University of Pennsylvania<br></span>
         </p>
     </div>
-    
+
 <div class="list-item-people">
     <p class="list-post-title">
         <img  width="200" src="https://raw.githubusercontent.com/ai4bc/ai4bc21/master/assets/appliedai.png"/>
@@ -148,7 +149,7 @@ The audience of this workshop will be researchers and students from a wide array
 
 
 #### Program Committee (tentative)
-- [Jann Spiess][jann], Stanford University 
+- [Jann Spiess][jann], Stanford University
 - [Paramveer Dhillon][paramveer], University of Michigan
 - [Zhenke Wu][zhenke], University of Michigan
 - [Anton Gollwitzer][anton], Yale University
