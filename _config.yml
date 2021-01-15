@@ -40,3 +40,4 @@ kramdown:
 # ensures that there are no additional header pages
 header_pages:
   - schedule.md
+  - posters.md
