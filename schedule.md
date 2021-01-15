@@ -41,7 +41,7 @@ layout: page
             <td>
                 "Lunch Tables" by partners on <a href="https://gather.town/">gather</a>
                 <ul>
-                    <li> <a href="https://www.psychoftech.org/">Pysch of Tech</a> </li>
+                    <li> <a href="https://www.psychoftech.org/">Psych of Tech</a> </li>
                     <li> <a href="https://bcfg.wharton.upenn.edu/">Behavior Change For Good Initiative</a> </li>
                     <li> <a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence">Center for Applied AI at Chicago Booth</a> </li>
                 </ul>
