@@ -50,7 +50,7 @@ layout: page
         <tr>
             <td> 01:45pm - 02:30pm </td>
             <td>
-                <a href="https://docs.google.com/document/d/1PKAeV7iJPaXoDwUDfmEwKIjh-h1pv-F1JONBmJ0h9aY/edit#heading=h.1l7xxjyziaz7">Poster session</a> on gather
+                <a href="https://ai4bc.github.io/ai4bc21/posters.html">Poster session</a> on gather
             </td>
         </tr>
         <tr>
