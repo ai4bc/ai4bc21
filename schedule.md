@@ -57,7 +57,7 @@ layout: page
             <td> 02:30pm - 03:30pm </td>
             <td>
                 Keynote Talk: <b>Susan Athey</b> <br>
-                TBA
+                Designing and Analyzing Large Scale Experiments for Behavior Change
             </td>
         </tr>
         <tr>
