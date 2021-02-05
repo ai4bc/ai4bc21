@@ -44,7 +44,7 @@ layout: page
                     <li> AI-informed Intervention Design </li>
                     <li>  Leveraging Observational Data for Behavior Change </li>
                     <li> AI in the Field: Translating Theory to Action </li>
-                    <li>Observing Unobservables: Using Psychology to Generate New Features </li>
+                    <li>Observing Unobservables: Psychology to Generate New Features </li>
                 </ul>
             </td>
         </tr>
