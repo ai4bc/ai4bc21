@@ -39,11 +39,12 @@ layout: page
         <tr>
             <td> 01:00 pm - 02:00 pm </td>
             <td>
-                "Lunch Tables" by partners on <a href="https://gather.town/">gather</a>
+                "Lunch Rooms" on <a href="https://gather.town/">gather</a>. Themes:
                 <ul>
-                    <li> <a href="https://www.psychoftech.org/">Psych of Tech</a> </li>
-                    <li> <a href="https://bcfg.wharton.upenn.edu/">Behavior Change For Good Initiative</a> </li>
-                    <li> <a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence">Center for Applied AI at Chicago Booth</a> </li>
+                    <li> AI-informed Intervention Design </li>
+                    <li>  Leveraging Observational Data for Behavior Change </li>
+                    <li> AI in the Field: Translating Theory to Action </li>
+                    <li>Observing Unobservables: Using Psychology to Generate New Features </li>
                 </ul>
             </td>
         </tr>
