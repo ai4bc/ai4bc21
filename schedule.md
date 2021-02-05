@@ -54,6 +54,12 @@ layout: page
             </td>
         </tr>
         <tr>
+            <td> 02:00pm - 02:30pm </td>
+            <td>
+                <a href="https://ai4bc.github.io/ai4bc21/posters.html">Spotlight Talks by Poster Presenters</a> 
+            </td>
+        </tr>
+        <tr>
             <td> 02:30pm - 03:30pm </td>
             <td>
                 Keynote Talk: <b>Susan Athey</b> <br>
