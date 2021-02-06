@@ -45,6 +45,7 @@ layout: page
                     <li>  Leveraging Observational Data for Behavior Change </li>
                     <li> AI in the Field: Translating Theory to Action </li>
                     <li>Observing Unobservables: Psychology to Generate New Features </li>
+                    <li>New Directions for Research on the Psychology of Technology </li>
                 </ul>
             </td>
         </tr>
