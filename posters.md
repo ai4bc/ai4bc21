@@ -9,7 +9,6 @@ layout: page
 |-------------------------------------------------------------------------------------------------------------------------|----------------------------------|
 | A Subsidy Model for Social Media Interventions                                                                          | Renita Murimi                    |
 | A Machine Learning Approach to Analyze and Support Anti-Corruption Policy                                               | Elliott Ash                      |
-| It’s how you say it: Systematic A/B testing of digital messaging cut hospital no-show rates                             | Adi Berliner Senderey            |
 | Potential Impacts of Smart Homes with Reinforcement Learning on Human Behavior                                          | Shashi Suman                     |
 | Using AI to Improve Maternal and Child Health Outcomes by Increasing Program Engagement through Targeted Interventions  | Siddharth Nishtala               |
 | Belief and Persuasion in Scientific Discourse on Social Media: A Study of the COVID-19 Pandemic                         | Salwa Alamir                     |
