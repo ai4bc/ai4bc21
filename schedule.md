@@ -6,6 +6,7 @@ layout: page
 ---
 
 # Monday, 8 February 2021 (EST)
+# <a href="https://virtual.2021.aaai.org/workshop_WS-2.html">Zoom Access</a>
 
 <table>
     <colgroup>
