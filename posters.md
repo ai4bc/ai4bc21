@@ -15,6 +15,6 @@ layout: page
 | Delegation to autonomous agents promotes cooperation in collective-risk dilemmas                                        | Elias Fernández Domingos         |
 | <a href="https://arxiv.org/abs/2010.03574">Characterizing the Value of Information in Medical Notes</a>                                                               | Chao-Chun Hsu                    |
 | Trajectories of mortality risk and association with end-of-life care quality                                            | Ravi Parikh                      |
-| Applying the Principal-Agent Framework to AI-Mediated Communication: Psychological Implications                         | Hannah Mieczkowski               |
+| Applying the Principal-Agent Framework to AI-Mediated Communication: Psychological Implications                         | <a href = "https://www.hnmiecz.com/">Hannah Mieczkowski</a>               |
 | Influence via Ethos: On the Persuasive Power of Reputation in Deliberation Online                                       | <a href = "https://emaadmanzoor.com/">Emaad Manzoor</a>                   |
 | Fast Intervention Scheduling via Lagrangian Solutions to Multi-Action Restless Bandits                                  | <a href = "https://killian-34.github.io/">Jackson Killian</a>                  |
