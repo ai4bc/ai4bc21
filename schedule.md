@@ -32,9 +32,9 @@ layout: page
                 Contributed Talks
                 <ul>
                     <li> <b>Hannah Mieczkowski</b>, Applying the Principal-Agent Framework to AI-Mediated Communication: Psychological Implications </li>
-                    <li> <b>Emaad Manzoor</b>, Influence via Ethos: On the Persuasive Power of Reputation in Deliberation Online </li>
-                    <li> <b>Jackson Killian</b>, Fast Intervention Scheduling via Lagrangian Solutions to Multi-Action Restless Bandits </li>
-                    <li> <b>Sudeep Bhatia</b>, Knowledge Representations in Health Judgments </li>
+                    <li> <b><a href = "https://emaadmanzoor.com/">Emaad Manzoor</a></b>, Influence via Ethos: On the Persuasive Power of Reputation in Deliberation Online </li>
+                    <li> <b><a href = "https://killian-34.github.io/">Jackson Killian</a></b>, Fast Intervention Scheduling via Lagrangian Solutions to Multi-Action Restless Bandits </li>
+                    <li> <b><a href="http://web.sas.upenn.edu/cbs-lab/">Sudeep Bhatia</a></b>, Knowledge Representations in Health Judgments </li>
                 </ul>
             </td>
         </tr>
