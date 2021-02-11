@@ -6,8 +6,9 @@ layout: page
 ---
 
 # Monday, 8 February 2021 (EST)
-# <a href="https://virtual.2021.aaai.org/workshop_WS-2.html">Zoom Access</a>
-
+# <a href="https://zoom.us/rec/share/QeA-0OsOIpGOxkAx_X6ooJuApSPNrdPnMY6cF27H2_N3V_4HxIAIKAnWNTk34v5t.VMawEiuB7ZJ98HxN?startTime=1612800434000">Zoom Recording 1</a>
+# <a href="https://zoom.us/rec/share/QeA-0OsOIpGOxkAx_X6ooJuApSPNrdPnMY6cF27H2_N3V_4HxIAIKAnWNTk34v5t.VMawEiuB7ZJ98HxN?startTime=1612824790000">Zoom Recording 2</a>
+## Passcode: ^6fX*Rpp
 <table>
     <colgroup>
         <col width="25%" />
