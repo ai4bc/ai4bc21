@@ -91,7 +91,7 @@ The audience of this workshop will be researchers and students from a wide array
 
 <div class="list-item-people">
         <p class="list-post-title">
-            <img  width="300" src="https://github.com/ai4bc/ai4bc21/blob/master/assets/bcfg.png?raw=true"/>
+            <img  width="300" src="https://raw.githubusercontent.com/ai4bc/ai4bc21/master/assets/susilologo.png"/>
             <span class="caption"><a href="https://bcfg.wharton.upenn.edu">Behavior Change For Good</a> <br>University of Pennsylvania<br></span>
         </p>
     </div>
